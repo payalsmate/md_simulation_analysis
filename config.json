@@ -1,0 +1,16 @@
+{
+  "input_dir": "~/gromacs/md_output_docked",
+  "output_dir": "~/gromacs/results_md_analysis",
+  "compare_dir": "~/gromacs/md_output_protein",
+  "traj_name": "step7",
+  "steps": "10",
+  "protein_name": "AQP9",
+  "ligand_name": "Zingerone",
+  "protein_group_name": "Protein",
+  "ligand_group_name": "LIG",
+  "run_analysis": true,
+  "run_plots": true,
+  "run_movie": true,
+  "num_movie_chunks": 1,
+  "prefix_subplot_titles": true
+}
