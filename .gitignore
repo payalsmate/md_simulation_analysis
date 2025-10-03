@@ -1,0 +1,14 @@
+# Ignore JetBrains IDE project files
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore simulation outputs / temporary files
+*.log
+*.xtc
+*.trr
+*.edr
+*.tpr
+*.gro
